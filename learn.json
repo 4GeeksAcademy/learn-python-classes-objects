@@ -1,36 +1,38 @@
 
 {
-"slug": "python-beginner-programming-exercises",
-"title": {
-    "us": "Learn Python Interactively (beginner)",
-    "es": "Aprende Python Interactivamente (Principiante)"
-},
-"intro": "https://www.youtube.com/watch?v=amyDNhZwGJQ",
-"repository": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises",
-"preview": "https://github.com/4GeeksAcademy/python-beginner-programming-exercises/blob/master/.learn/assets/preview.png?raw=true",
-"description": {
-    "us": "Python exercises for beginners, starting from the basics like `Hello World` to more advanced concepts like variables, loops, functions, and data structures. These hands-on challenges guide you step by step through Python programming, offering interactive and auto-graded lessons to build a solid foundation.",
-    "es": "Ejercicios de Python para principiantes, comenzando desde lo básico como `Hola Mundo` hasta conceptos más avanzados como variables, bucles, funciones y estructuras de datos. Estos desafíos prácticos te guían paso a paso en la programación con Python, ofreciendo lecciones interactivas y autoevaluadas para construir una base sólida."
-},
-"duration": 10,
-"difficulty": "easy",
-"videoSolutions": true,
-"projectType": "tutorial",
-"bugsLink": "https://github.com/learnpack/learnpack/issues/new",
-"graded": true,
-"technologies": ["strings", "python-functions", "conditionals", "variables", "condicionales", "funciones-de-python"],
-"editor": {
-    "version": "5.0"
-},
-"telemetry": {
-    "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry?asset_id=145"
-},
-"video": {
-    "intro": {
-        "es": "https://www.youtube.com/watch?v=IXNSwnN-YqM",
-        "en": "https://www.youtube.com/watch?v=amyDNhZwGJQ"
+    "slug": "learn-python-classes-objects",
+    "title": {
+        "us": "Learn Python Classes and Objects",
+        "es": "Aprende Clases y Objetos en Python"
+    },
+    "intro": "https://www.youtube.com/watch?v=IXNSwnN-YqM",
+    "repository": "https://github.com/4GeeksAcademy/learn-python-classes-objects",
+    "preview": "https://github.com/4GeeksAcademy/learn-python-classes-objects/blob/main/.learn/assets/preview.png?raw=true",
+    "description": {
+        "us": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
+        "es": "Un LearnPack incremental para practicar Programacion Orientada a Objetos en Python. El estudiante aprende a modelar datos estructurados con clases, instancias, atributos, metodos, composicion, propiedades y herencia mediante ejercicios cortos autoevaluados."
+    },
+    "duration": 12,
+    "difficulty": "easy",
+    "videoSolutions": true,
+    "projectType": "tutorial",
+    "bugsLink": "https://github.com/learnpack/learnpack/issues/new",
+    "graded": true,
+    "technologies": [
+        "python",
+        "oop",
+        "classes",
+        "objects",
+        "python-classes",
+        "python-oop"
+    ],
+    "editor": {
+        "version": "5.0"
+    },
+    "video": {
+        "intro": {
+            "es": "https://www.youtube.com/watch?v=IXNSwnN-YqM",
+            "en": "https://www.youtube.com/watch?v=amyDNhZwGJQ"
+        }
     }
-}
-
-
 }
