@@ -1,15 +1,24 @@
-# `01` Crea tu primera clase
+# 01 Crea tu primera clase
+
+## Objetivo
+
+En este primer ejercicio vas a practicar la base de POO: definir una clase y crear un objeto a partir de ella.
 
 ## Instrucciones
 
-En este ejercicio vas a crear tu primera clase en Python.
-
-Debes hacer lo siguiente en `app.py`:
+Trabaja en `app.py` y completa exactamente lo siguiente:
 
 1. Crea una clase llamada `Person`.
-2. Crea una instancia llamada `student` de esa clase.
+2. Crea una instancia llamada `student` usando esa clase.
 
-No necesitas agregar atributos ni metodos todavia.
+En este modulo no agregues atributos ni metodos todavia.
+
+## Criterio de exito
+
+El ejercicio se considera correcto cuando:
+
+- Existe la clase `Person`.
+- `student` es una instancia de `Person`.
 
 ## Ejemplo esperado
 

@@ -1,34 +1,40 @@
-# 000 Bienvenido a Representar Objetos con Clases en Python
+# 00 Bienvenida
 
-Este tutorial esta integrado con LearnPack y evaluacion automatica.
+Bienvenido a este LearnPack de Programacion Orientada a Objetos en Python.
 
-## Objetivo de este tutorial
+Aqui vas a aprender a modelar situaciones reales con clases y objetos, paso a paso.
 
-En este LearnPack vas a practicar Programacion Orientada a Objetos en Python, aprendiendo a representar datos del mundo real como clases y objetos.
+## Que haremos
 
-El recorrido esta disenado de forma incremental: empiezas con clases simples y avanzas hacia composicion, encapsulamiento, propiedades y herencia.
+Este paso `00-Welcome` es solo de introduccion.
 
-## Flujo recomendado
+Desde el siguiente modulo comenzaran **11 practicas** progresivas para dominar:
 
-1. Lee las instrucciones del ejercicio.
-2. Implementa tu solucion en app.py.
-3. Haz clic en Run para revisar la salida.
-4. Haz clic en Test y repite hasta pasar todos los tests.
-5. Cuando termines, haz clic en Next para avanzar al siguiente paso.
+- Clases e instancias
+- Atributos y metodos
+- Encapsulamiento
+- Herencia
+- Polimorfismo
+- Abstraccion aplicada
+- Composicion y colecciones de objetos
 
-## Que vas a practicar
+## Como trabajar cada ejercicio
 
-- Crear clases e instanciar objetos
-- Definir atributos y metodos
-- Validar y normalizar estado de objetos
-- Relacionar objetos con composicion
-- Reutilizar comportamiento con herencia
+1. Lee el `README.es.md` del modulo.
+2. Implementa tu solucion en `app.py`.
+3. Ejecuta `Run` para probar comportamiento.
+4. Ejecuta `Test` hasta pasar todas las pruebas.
+5. Haz clic en `Next` para avanzar.
 
-## Estructura curricular sugerida
+## Ruta de aprendizaje
 
-- 001-003: Fundamentos de clases y objetos
-- 004-006: Metodos, validaciones y representacion de objetos
-- 007-009: Composicion y colecciones de objetos
-- 010-012: Encapsulamiento, propiedades y herencia
+- 01-03: fundamentos de clases, estado y metodos
+- 04-06: encapsulamiento, validaciones y metodos especiales
+- 07-09: atributos de clase, composicion y colecciones
+- 10-11: herencia, polimorfismo y abstraccion
 
-Cuando estes listo, haz clic en Next arriba a la derecha.
+## Objetivo final
+
+Al terminar, podras disenar clases claras, mantener objetos consistentes y aplicar los pilares de OOP en problemas reales.
+
+Cuando estes listo, pasa al ejercicio `01-Create-First-Class`.
