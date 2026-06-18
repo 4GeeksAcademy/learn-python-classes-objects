@@ -7,14 +7,14 @@
     },
     "intro": "",
     "repository": "https://github.com/4GeeksAcademy/learn-python-classes-objects",
-    "preview": "https://github.com/4GeeksAcademy/learn-python-classes-objects/blob/main/.learn/assets/preview.png?raw=true",
+    "preview": "",
     "description": {
         "us": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
         "es": "Un LearnPack incremental para practicar Programacion Orientada a Objetos en Python. El estudiante aprende a modelar datos estructurados con clases, instancias, atributos, metodos, composicion, propiedades y herencia mediante ejercicios cortos autoevaluados."
     },
     "duration": 12,
     "difficulty": "easy",
-    "videoSolutions": true,
+    "videoSolutions": false,
     "projectType": "tutorial",
     "bugsLink": "",
     "graded": true,
@@ -31,8 +31,8 @@
     },
     "video": {
         "intro": {
-            "es": "https://www.youtube.com/watch?v=IXNSwnN-YqM",
-            "en": "https://www.youtube.com/watch?v=amyDNhZwGJQ"
+            "es": "",
+            "en": ""
         }
     }
 }
