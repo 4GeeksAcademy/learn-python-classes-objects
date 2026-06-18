@@ -4,6 +4,12 @@ Welcome to this Object-Oriented Programming LearnPack in Python.
 
 Here you will learn how to model real-world scenarios with classes and objects, step by step.
 
+## Key concept
+
+In OOP, a class defines structure and behavior, and an object is a concrete instance of that class.
+
+Throughout this LearnPack, you will build that foundation progressively: first simple classes, then encapsulation, composition, inheritance, and polymorphism.
+
 ## What we will do
 
 This step, 00-Welcome, is introduction only.
