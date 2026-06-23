@@ -17,8 +17,8 @@ Trabaja en `app.py` y completa exactamente lo siguiente:
 1. Crea una clase `Person`.
 2. Agrega un atributo de clase `population = 0`.
 3. En `__init__(name, age)`, guarda `name` y `age`, y aumenta `Person.population` en 1.
-4. Crea un método de clase `get_population()` que retorne `population`.
-5. Crea un método estático `is_adult(age)` que retorne `True` si `age >= 18`, y `False` en otro caso.
+4. Define `get_population()` con `@classmethod` para que retorne `population`.
+5. Define `is_adult(age)` con `@staticmethod` para que retorne `True` si `age >= 18`, y `False` en otro caso.
 6. Crea una instancia global `student = Person("John", 21)`.
 
 ## Criterio de éxito

@@ -20,7 +20,7 @@ def test_add_and_total_students():
 def test_find_student_by_name():
     classroom = Classroom()
     classroom.add_student(Person("Luis", 23))
-    found = classroom.find_student("Luis")
+    found = classroom.find_student_by_name("Luis")
     assert found is not None
     assert found.name == "Luis"
 
@@ -30,4 +30,4 @@ def test_remove_student_by_name():
     classroom.add_student(Person("Eva", 22))
     removed = classroom.remove_student_by_name("Eva")
     assert removed is True
-    assert classroom.find_student("Eva") is None
+    assert classroom.find_student_by_name("Eva") is None
