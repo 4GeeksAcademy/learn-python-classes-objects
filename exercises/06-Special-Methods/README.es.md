@@ -1,12 +1,12 @@
-# 06 Metodos especiales
+# 06 Métodos especiales
 
 ## Objetivo
 
-En este ejercicio vas a practicar metodos especiales para representar y comparar objetos.
+En este ejercicio vas a practicar métodos especiales para representar y comparar objetos.
 
 ## Concepto clave
 
-Los metodos especiales permiten que tus clases se integren mejor con Python.
+Los métodos especiales permiten que tus clases se integren mejor con Python.
 
 ## Instrucciones
 
@@ -20,7 +20,7 @@ Trabaja en `app.py` y completa exactamente lo siguiente:
    - `student = Person("John", 21)`
    - `student_clone = Person("John", 21)`
 
-## Criterio de exito
+## Criterio de éxito
 
 El ejercicio se considera correcto cuando:
 

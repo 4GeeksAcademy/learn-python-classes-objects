@@ -21,10 +21,10 @@ Trabaja en `app.py` y completa exactamente lo siguiente:
    - `total_students()` que retorne la cantidad de estudiantes.
 4. Crea una instancia `bootcamp = Classroom()`.
 
-## Criterio de exito
+## Criterio de éxito
 
 El ejercicio se considera correcto cuando:
 
 - Se pueden agregar y eliminar estudiantes correctamente.
 - Se pueden buscar estudiantes por nombre.
-- `total_students()` refleja la cantidad real en la coleccion.
+- `total_students()` refleja la cantidad real en la colección.

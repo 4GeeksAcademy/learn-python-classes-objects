@@ -6,11 +6,11 @@ En este primer ejercicio vas a practicar la base de POO: definir una clase y cre
 
 ## Concepto clave
 
-Una clase es una plantilla que describe como sera un tipo de objeto.
+Una clase es una plantilla que describe cómo será un tipo de objeto.
 
 Una instancia es un objeto concreto creado desde esa clase.
 
-En este ejercicio no vas a guardar datos todavia; solo vas a construir la estructura minima para entender la relacion entre clase e instancia.
+En este ejercicio no vas a guardar datos todavía; solo vas a construir la estructura mínima para entender la relación entre clase e instancia.
 
 ## Instrucciones
 
@@ -19,9 +19,9 @@ Trabaja en `app.py` y completa exactamente lo siguiente:
 1. Crea una clase llamada `Person`.
 2. Crea una instancia llamada `student` usando esa clase.
 
-En este modulo no agregues atributos ni metodos todavia.
+En este módulo no agregues atributos ni métodos todavía.
 
-## Criterio de exito
+## Criterio de éxito
 
 El ejercicio se considera correcto cuando:
 
