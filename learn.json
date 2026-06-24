@@ -1,12 +1,25 @@
 {
-    "slug": "practice-python-classes-objects",
-    "title": "Learn Python Classes and Objects",
-    "description": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
-    "preview": "",
+    "gitpod": true,
     "difficulty": "EASY",
     "duration": 12,
+    "slug": "practice-python-classes-objects",
     "template_url": null,
-    "gitpod": true,
+    "projectType": "tutorial",
+    "title": {
+        "en": "Practice Python Classes and Objects",
+        "es": "Practica de Clases y Objetos en Python"
+    },
+    "description": {
+        "en": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
+        "es": "Un LearnPack incremental para practicar la Programación Orientada a Objetos en Python. Los estudiantes aprenden a modelar datos estructurados con clases, instancias, atributos, métodos, composición, propiedades y herencia a través de ejercicios cortos autoevaluados."
+    },
+    "translations": [
+        "es",
+        "en"
+    ],
+    "telemetry": {
+        "batch": ""
+    },
     "technologies": [
         "python",
         "oop",
@@ -15,9 +28,8 @@
         "python-classes",
         "python-oop"
     ],
-    "projectType": "tutorial",
     "video": {
-        "intro": "https://www.youtube.com/watch?v="
+        "intro": ""
     },
     "grading": "incremental",
     "localhostOnly": false,
@@ -30,5 +42,11 @@
     },
     "editor": {
         "version": "5.0"
-    }
+    },
+    "sharing": [
+        {
+            "en": "",
+            "es": ""
+        }
+    ]
 }
