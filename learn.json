@@ -1,23 +1,12 @@
-
 {
-    "slug": "learn-python-classes-objects",
-    "title": {
-        "us": "Learn Python Classes and Objects",
-        "es": "Aprende Clases y Objetos en Python"
-    },
-    "intro": "",
-    "repository": "https://github.com/4GeeksAcademy/learn-python-classes-objects",
+    "slug": "practice-python-classes-objects",
+    "title": "Learn Python Classes and Objects",
+    "description": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
     "preview": "",
-    "description": {
-        "us": "An incremental LearnPack to practice Object-Oriented Programming in Python. Students learn to model structured data with classes, instances, attributes, methods, composition, properties, and inheritance through short auto-graded exercises.",
-        "es": "Un LearnPack incremental para practicar Programacion Orientada a Objetos en Python. El estudiante aprende a modelar datos estructurados con clases, instancias, atributos, metodos, composicion, propiedades y herencia mediante ejercicios cortos autoevaluados."
-    },
+    "difficulty": "EASY",
     "duration": 12,
-    "difficulty": "easy",
-    "videoSolutions": false,
-    "projectType": "tutorial",
-    "bugsLink": "",
-    "graded": true,
+    "template_url": null,
+    "gitpod": true,
     "technologies": [
         "python",
         "oop",
@@ -26,13 +15,20 @@
         "python-classes",
         "python-oop"
     ],
+    "projectType": "tutorial",
+    "video": {
+        "intro": "https://www.youtube.com/watch?v="
+    },
+    "grading": "incremental",
+    "localhostOnly": false,
+    "delivery": {
+        "instructions": "",
+        "formats": [
+            "url"
+        ],
+        "regex": ""
+    },
     "editor": {
         "version": "5.0"
-    },
-    "video": {
-        "intro": {
-            "es": "",
-            "en": ""
-        }
     }
 }
